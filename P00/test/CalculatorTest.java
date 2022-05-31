@@ -44,7 +44,7 @@ public class CalculatorTest {
 	public void testSubtract() {
 		//fail("Not yet implemented");
 		
-		int a = 9876;
+		int a = 9076;
 		int b = 4321;
 		
 		Calculator cal = new Calculator();
